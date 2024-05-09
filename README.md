@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tamkaize
-- 👀 I’m interested in creating XR, AR, and MR experiences
-- 🌱 I’m currently learning Unity 3D and C#
-- 💞️ I’m looking to collaborate on creating the future of MR commerce and beauty
+- 👀 I’m interested in financial engineering
+- 🌱 I’m currently learning how to design and implement structured commodities and trade finance
+- 💞️ I’m looking to collaborate on developing finance-related projects
 - 📫 You can reach me via my Linkedin: https://www.linkedin.com/in/tamkaize/
 
 <!---
