@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tamkaize
-- 👀 I’m interested in financial engineering
-- 🌱 I’m currently learning how to design and implement structured commodities and trade finance
-- 💞️ I’m looking to collaborate on developing finance-related projects
+- 👀 I’m interested in deep learninng and quantitative finance
+- 🌱 I’m currently learning C for building market-microstructures
+- 💞️ I’m looking to collaborate on quantitative research, development, and financial data science
 - 📫 You can reach me via my Linkedin: https://www.linkedin.com/in/tamkaize/
 
 <!---
